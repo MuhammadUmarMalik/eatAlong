@@ -16,7 +16,7 @@ const [type,setType]=useState(CameraType.back)
 const [permission,requestPermission]=Camera.useCameraPermissions()
 
 // requestPermission()
-
+//hello
 // reference hook
 const cameraRef=useRef()
 const [profilePicUri,setProfilePicUri]=useState('')
